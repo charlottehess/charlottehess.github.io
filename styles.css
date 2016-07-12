@@ -1,4 +1,14 @@
-body { background-color: purple;}
+body
+  { background-color: cadetblue;}
+
+body
+  { font-family: arial;}
+
+body
+  { color: white;}
+
+body
+  { font-size: 20px;}
 
 img {
   height: auto;
