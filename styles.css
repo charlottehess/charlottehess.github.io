@@ -32,11 +32,11 @@ h2 {
 }
 
 h2:target {
-  color: orange;
+  color: pink;
 }
 
 a {
-  color: yellow;
+  color: white;
   transition: color 150ms ease-in-out;
 }
 
